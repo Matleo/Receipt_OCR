@@ -1,0 +1,453 @@
+{
+ "accuracy": 0.44047619047619047,
+ "char_accuracy": 0.47023809523809523,
+ "test_size": 168,
+ "epochs": 50,
+ "mistakes": [
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-1288-245.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-1288-365.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-1288-496.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-1324-293.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-1324-353.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-222-376.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-222-53.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-669-243.png"
+  },
+  {
+   "label": " ",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/032-space/tx_890_2-703-52.png"
+  },
+  {
+   "label": ")",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/041-closing_bracket/tx_890_2-1288-484.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-462-340.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-600-531.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-635-340.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-669-340.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-669-531.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-772-424.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-772-531.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-842-531.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-876-531.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-911-531.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/044-comma/tx_890_2-979-531.png"
+  },
+  {
+   "label": "-",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/045-minus/tx_890_2-979-506.png"
+  },
+  {
+   "label": "3",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/051-3/tx_890_2-462-327.png"
+  },
+  {
+   "label": "6",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/054-6/tx_890_2-669-566.png"
+  },
+  {
+   "label": "6",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/054-6/tx_890_2-772-506.png"
+  },
+  {
+   "label": "7",
+   "pred": "2",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/055-7/tx_890_2-772-555.png"
+  },
+  {
+   "label": "7",
+   "pred": "2",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/055-7/tx_890_2-842-542.png"
+  },
+  {
+   "label": "8",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/056-8/tx_890_2-703-64.png"
+  },
+  {
+   "label": ":",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/058-colon/tx_890_2-1048-77.png"
+  },
+  {
+   "label": "B",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/066-B/tx_890_2-842-64.png"
+  },
+  {
+   "label": "B",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/066-B/tx_890_2-946-64.png"
+  },
+  {
+   "label": "G",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/071-G/tx_890_2-1288-375.png"
+  },
+  {
+   "label": "M",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/077-M/tx_890_2-669-255.png"
+  },
+  {
+   "label": "P",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/080-P/tx_890_2-222-315.png"
+  },
+  {
+   "label": "T",
+   "pred": "l",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/084-T/tx_890_2-669-279.png"
+  },
+  {
+   "label": "U",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/085-U/tx_890_2-1288-65.png"
+  },
+  {
+   "label": "W",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/087-W/tx_890_2-1288-256.png"
+  },
+  {
+   "label": "X",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/088-X/tx_890_2-703-77.png"
+  },
+  {
+   "label": "b",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/098-b/tx_890_2-1048-64.png"
+  },
+  {
+   "label": "b",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/098-b/tx_890_2-222-411.png"
+  },
+  {
+   "label": "c",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/099-c/tx_890_2-1288-137.png"
+  },
+  {
+   "label": "c",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/099-c/tx_890_2-1288-424.png"
+  },
+  {
+   "label": "c",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/099-c/tx_890_2-979-89.png"
+  },
+  {
+   "label": "e",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/101-e/tx_890_2-1288-340.png"
+  },
+  {
+   "label": "e",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/101-e/tx_890_2-1288-448.png"
+  },
+  {
+   "label": "e",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/101-e/tx_890_2-1324-340.png"
+  },
+  {
+   "label": "e",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/101-e/tx_890_2-842-112.png"
+  },
+  {
+   "label": "e",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/101-e/tx_890_2-979-124.png"
+  },
+  {
+   "label": "g",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/103-g/tx_890_2-842-100.png"
+  },
+  {
+   "label": "g",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/103-g/tx_890_2-946-100.png"
+  },
+  {
+   "label": "g",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/103-g/tx_890_2-979-112.png"
+  },
+  {
+   "label": "h",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/104-h/tx_890_2-1288-149.png"
+  },
+  {
+   "label": "h",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/104-h/tx_890_2-1288-436.png"
+  },
+  {
+   "label": "i",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/105-i/tx_890_2-1288-460.png"
+  },
+  {
+   "label": "i",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/105-i/tx_890_2-1324-377.png"
+  },
+  {
+   "label": "i",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/105-i/tx_890_2-222-101.png"
+  },
+  {
+   "label": "i",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/105-i/tx_890_2-222-352.png"
+  },
+  {
+   "label": "k",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/107-k/tx_890_2-222-112.png"
+  },
+  {
+   "label": "k",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/107-k/tx_890_2-979-101.png"
+  },
+  {
+   "label": "l",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/108-l/tx_890_2-222-138.png"
+  },
+  {
+   "label": "m",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/109-m/tx_890_2-1288-78.png"
+  },
+  {
+   "label": "m",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/109-m/tx_890_2-1324-364.png"
+  },
+  {
+   "label": "n",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/110-n/tx_890_2-1288-471.png"
+  },
+  {
+   "label": "n",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/110-n/tx_890_2-1288-531.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-1288-281.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-1288-353.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-1324-328.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-222-328.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-222-76.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-842-89.png"
+  },
+  {
+   "label": "r",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/114-r/tx_890_2-946-89.png"
+  },
+  {
+   "label": "s",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/115-s/tx_890_2-1288-125.png"
+  },
+  {
+   "label": "s",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/115-s/tx_890_2-1288-411.png"
+  },
+  {
+   "label": "s",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/115-s/tx_890_2-222-363.png"
+  },
+  {
+   "label": "t",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/116-t/tx_890_2-1324-388.png"
+  },
+  {
+   "label": "t",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/116-t/tx_890_2-222-447.png"
+  },
+  {
+   "label": "t",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/116-t/tx_890_2-222-89.png"
+  },
+  {
+   "label": "u",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/117-u/tx_890_2-1288-113.png"
+  },
+  {
+   "label": "u",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/117-u/tx_890_2-1288-388.png"
+  },
+  {
+   "label": "v",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/118-v/tx_890_2-1288-506.png"
+  },
+  {
+   "label": "ü",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/12/252-ü/tx_890_2-979-77.png"
+  },
+  {
+   "label": ",",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/044-comma/tx_890_2-806-495.png"
+  },
+  {
+   "label": "6",
+   "pred": "0",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/054-6/tx_890_2-806-447.png"
+  },
+  {
+   "label": "B",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/066-B/tx_890_2-806-136.png"
+  },
+  {
+   "label": "H",
+   "pred": "U",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/072-H/tx_890_2-806-231.png"
+  },
+  {
+   "label": "L",
+   "pred": "E",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/076-L/tx_890_2-806-255.png"
+  },
+  {
+   "label": "N",
+   "pred": "R",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/078-N/tx_890_2-806-303.png"
+  },
+  {
+   "label": "Z",
+   "pred": "2",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/090-Z/tx_890_2-806-184.png"
+  },
+  {
+   "label": "Z",
+   "pred": "2",
+   "file": "C:/Users/test/PycharmProjects/OCR/src/../assets/Test/Characters/24/090-Z/tx_890_2-806-64.png"
+  }
+ ]
+}

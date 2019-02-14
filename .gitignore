@@ -1,0 +1,9 @@
+.idea/
+venv/
+__pycache__/
+assets/char_label_dict_old.json
+assets/alphanum_label_dict_old.json
+assets/Müller/
+assets/MüllerNew/
+assets/DennsNew/
+assets/Denns/
